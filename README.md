@@ -21,7 +21,8 @@ Alguns NPC´s que interagem com você.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-buy_me_a_coffee: USERNAME
+### Café
+* Se quiser me pagar um cafezinho, tô dentro viu: PIX: marreis.a.reis@gmail.com
 
 ### Feito com
 * [[Godot][Godotengine.org][Godot-url]
